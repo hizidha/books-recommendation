@@ -122,11 +122,11 @@ Berdasarkan tabel-tabel di atas, maka pada proyek kali ini akan menggunakan sala
 ### Univariate Exploratory Data Analysis
 Selanjutnya adalah menampilkan 10 data teratas dan terbawah menurut jumlah kemunculan data pada fitur `Category` yang dapat dilihat pada Gambar 1.
 
-![top_10_category](https://github.com/hizidha/MLExpert_Submission_2/blob/main/assets/10_teratas.png?raw=true)
+![top_10_category](https://github.com/hizidha/books-recommendation/blob/main/assets/10_teratas.png?raw=true)
 
 *Gambar 1. 10 data category teratas*
 
-![top_10_category_2](https://github.com/hizidha/MLExpert_Submission_2/blob/main/assets/10_terbawah.png?raw=true)
+![top_10_category_2](https://github.com/hizidha/books-recommendation/blob/main/assets/10_terbawah.png?raw=true)
 
 *Gambar 2. 10 data category terbawah*
 
@@ -364,11 +364,11 @@ Berikut menunjukkan buku yang telah di rating tinggi oleh user lain dan memberik
 1. Mean Squared Error (MSE)
     MSE adalah singkatan dari "Mean Squared Error" atau "Rata-rata Kesalahan Kuadrat". Ini adalah salah satu metrik evaluasi yang umum digunakan dalam statistik, ilmu data, dan machine learning untuk mengukur seberapa baik model memprediksi nilai target pada data yang diberikan. MSE mengukur rata-rata dari kuadrat perbedaan antara nilai aktual dan nilai yang diprediksi oleh model. Dengan demikian, semakin rendah nilai MSE, semakin baik model dalam memprediksi nilai target.
 
-    ![mse](https://github.com/hizidha/MLExpert_Submission_2/blob/main/assets/rumus-mse.png?raw=true)
+    ![mse](https://github.com/hizidha/books-recommendation/blob/main/assets/rumus-mse.png?raw=true)
 
     *Gambar 3. Rumus metrik evaluasi `mean squared error`*
 
-    ![visuliasasi-mse](https://github.com/hizidha/MLExpert_Submission_2/blob/main/assets/visuliasasi-mse.png?raw=true)
+    ![visuliasasi-mse](https://github.com/hizidha/books-recommendation/blob/main/assets/visuliasasi-mse.png?raw=true)
 
     *Gambar 4. Hasil Mean Squared Error*
 
@@ -377,11 +377,11 @@ Berikut menunjukkan buku yang telah di rating tinggi oleh user lain dan memberik
 2. Precision
     Presisi mengukur seberapa banyak dari prediksi positif yang sebenarnya benar. Ini memberikan pemahaman tentang seberapa baik model dalam menghindari memberikan hasil positif palsu. Presisi dihitung dengan membagi jumlah prediksi positif yang benar dengan total prediksi positif yang dilakukan.
 
-    ![presisi](https://github.com/hizidha/MLExpert_Submission_1/blob/main/assets/presisi.png?raw=true)
+    ![presisi](https://github.com/hizidha/books-recommendation/blob/main/assets/presisi.png?raw=true)
 
     *Gambar 5. Rumus metrik evaluasi `precision`*
 
-    ![visuliasasi-precision](https://github.com/hizidha/MLExpert_Submission_2/blob/main/assets/visuliasasi-precision.png?raw=true)
+    ![visuliasasi-precision](https://github.com/hizidha/books-recommendation/blob/main/assets/visuliasasi-precision.png?raw=true)
 
     *Gambar 6. Hasil Precision*
 
@@ -392,11 +392,11 @@ Berikut menunjukkan buku yang telah di rating tinggi oleh user lain dan memberik
 3. Recall
     Recall, juga dikenal sebagai sensitivitas, mengukur seberapa banyak dari kelas yang sebenarnya positif yang telah diidentifikasi dengan benar oleh model. Ini memberikan pemahaman tentang seberapa baik model dapat mengenali semua contoh yang positif.   
 
-    ![recall](https://github.com/hizidha/MLExpert_Submission_1/blob/main/assets/recall.png?raw=true)
+    ![recall](https://github.com/hizidha/books-recommendation/blob/main/assets/recall.png?raw=true)
 
     *Gambar 7. Rumus metrik evaluasi `recall`*
 
-    ![visuliasasi-recall](https://github.com/hizidha/MLExpert_Submission_2/blob/main/assets/visuliasasi-recall.png?raw=true)
+    ![visuliasasi-recall](https://github.com/hizidha/books-recommendation/blob/main/assets/visuliasasi-recall.png?raw=true)
 
     *Gambar 8. Hasil Recall*
 
