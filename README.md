@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Adisaputra Zidha
+<h1 align="center"> Books Recommendation </h1>
 
 ## Domain Proyek
 Sistem Rekomendasi Buku Berdasarkan Preferensi Pengguna dan Kategori Buku
